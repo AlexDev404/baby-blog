@@ -16,12 +16,13 @@ You are required to have the following dependencies installed on your system bef
 
 ## To run
 
-> [!IMPORTANT] On First Run (If not, skip to below)
+> [!IMPORTANT]
+> On First Run (If not, skip to below)
 > Open a command-line on either Windows or Linux inside of the project root and execute the following
 >
 > ```shell
 > # Install all dependencies and scaffolding required
->
+> $ make prepare
 > $ make initialize
 
 To run the project, you can execute the following each time
