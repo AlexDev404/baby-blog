@@ -12,7 +12,7 @@
     "start": "npm run watch"
   },
   "dependencies": {
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^4.1.17"
   },
   "repository": {
     "type": "git",
